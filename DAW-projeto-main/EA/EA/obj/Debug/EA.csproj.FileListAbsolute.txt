@@ -1,0 +1,168 @@
+C:\Users\Rui\Desktop\EA-master\EA\bin\Debug\EA.exe.config
+C:\Users\Rui\Desktop\EA-master\EA\bin\Debug\EA.exe
+C:\Users\Rui\Desktop\EA-master\EA\bin\Debug\EA.pdb
+C:\Users\Rui\Desktop\EA-master\EA\obj\Debug\EA.csprojAssemblyReference.cache
+C:\Users\Rui\Desktop\EA-master\EA\obj\Debug\EA.Form1.resources
+C:\Users\Rui\Desktop\EA-master\EA\obj\Debug\EA.Properties.Resources.resources
+C:\Users\Rui\Desktop\EA-master\EA\obj\Debug\EA.csproj.GenerateResource.cache
+C:\Users\Rui\Desktop\EA-master\EA\obj\Debug\EA.csproj.CoreCompileInputs.cache
+C:\Users\Rui\Desktop\EA-master\EA\obj\Debug\EA.exe
+C:\Users\Rui\Desktop\EA-master\EA\obj\Debug\EA.pdb
+C:\Users\Rui\Desktop\EA-master\EA\bin\Debug\pt-PT\EA.resources.dll
+C:\Users\Rui\Desktop\EA-master\EA\obj\Debug\EA.Form1.pt-PT.resources
+C:\Users\Rui\Desktop\EA-master\EA\obj\Debug\pt-PT\EA.resources.dll
+C:\Users\us.msantana\Source\Repos\catiamsa\EA\EA-master\EA\bin\Debug\EA.exe.config
+C:\Users\us.msantana\Source\Repos\catiamsa\EA\EA-master\EA\bin\Debug\EA.exe
+C:\Users\us.msantana\Source\Repos\catiamsa\EA\EA-master\EA\bin\Debug\EA.pdb
+C:\Users\us.msantana\Source\Repos\catiamsa\EA\EA-master\EA\bin\Debug\pt-PT\EA.resources.dll
+C:\Users\us.msantana\Source\Repos\catiamsa\EA\EA-master\EA\obj\Debug\EA.csprojAssemblyReference.cache
+C:\Users\us.msantana\Source\Repos\catiamsa\EA\EA-master\EA\obj\Debug\EA.Form1.resources
+C:\Users\us.msantana\Source\Repos\catiamsa\EA\EA-master\EA\obj\Debug\EA.Properties.Resources.resources
+C:\Users\us.msantana\Source\Repos\catiamsa\EA\EA-master\EA\obj\Debug\EA.Form1.pt-PT.resources
+C:\Users\us.msantana\Source\Repos\catiamsa\EA\EA-master\EA\obj\Debug\EA.csproj.GenerateResource.cache
+C:\Users\us.msantana\Source\Repos\catiamsa\EA\EA-master\EA\obj\Debug\EA.csproj.CoreCompileInputs.cache
+C:\Users\us.msantana\Source\Repos\catiamsa\EA\EA-master\EA\obj\Debug\pt-PT\EA.resources.dll
+C:\Users\us.msantana\Source\Repos\catiamsa\EA\EA-master\EA\obj\Debug\EA.exe
+C:\Users\us.msantana\Source\Repos\catiamsa\EA\EA-master\EA\obj\Debug\EA.pdb
+C:\Users\us.msantana\source\repos\migas43211234\DAW-projeto\EA\EA\bin\Debug\EA.exe.config
+C:\Users\us.msantana\source\repos\migas43211234\DAW-projeto\EA\EA\bin\Debug\EA.exe
+C:\Users\us.msantana\source\repos\migas43211234\DAW-projeto\EA\EA\bin\Debug\EA.pdb
+C:\Users\us.msantana\source\repos\migas43211234\DAW-projeto\EA\EA\bin\Debug\pt-PT\EA.resources.dll
+C:\Users\us.msantana\source\repos\migas43211234\DAW-projeto\EA\EA\obj\Debug\EA.csprojAssemblyReference.cache
+C:\Users\us.msantana\source\repos\migas43211234\DAW-projeto\EA\EA\obj\Debug\EA.Form1.resources
+C:\Users\us.msantana\source\repos\migas43211234\DAW-projeto\EA\EA\obj\Debug\EA.Properties.Resources.resources
+C:\Users\us.msantana\source\repos\migas43211234\DAW-projeto\EA\EA\obj\Debug\EA.Form1.pt-PT.resources
+C:\Users\us.msantana\source\repos\migas43211234\DAW-projeto\EA\EA\obj\Debug\EA.csproj.GenerateResource.cache
+C:\Users\us.msantana\source\repos\migas43211234\DAW-projeto\EA\EA\obj\Debug\EA.csproj.CoreCompileInputs.cache
+C:\Users\us.msantana\source\repos\migas43211234\DAW-projeto\EA\EA\obj\Debug\pt-PT\EA.resources.dll
+C:\Users\us.msantana\source\repos\migas43211234\DAW-projeto\EA\EA\obj\Debug\EA.exe
+C:\Users\us.msantana\source\repos\migas43211234\DAW-projeto\EA\EA\obj\Debug\EA.pdb
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\DAW\TRABALHO\trabalho_DAW\DAW-projeto\EA\EA\bin\Debug\EA.exe.config
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\DAW\TRABALHO\trabalho_DAW\DAW-projeto\EA\EA\bin\Debug\EA.exe
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\DAW\TRABALHO\trabalho_DAW\DAW-projeto\EA\EA\bin\Debug\EA.pdb
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\DAW\TRABALHO\trabalho_DAW\DAW-projeto\EA\EA\bin\Debug\pt-PT\EA.resources.dll
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\DAW\TRABALHO\trabalho_DAW\DAW-projeto\EA\EA\obj\Debug\EA.csprojAssemblyReference.cache
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\DAW\TRABALHO\trabalho_DAW\DAW-projeto\EA\EA\obj\Debug\EA.Form1.resources
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\DAW\TRABALHO\trabalho_DAW\DAW-projeto\EA\EA\obj\Debug\EA.Properties.Resources.resources
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\DAW\TRABALHO\trabalho_DAW\DAW-projeto\EA\EA\obj\Debug\EA.Form1.pt-PT.resources
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\DAW\TRABALHO\trabalho_DAW\DAW-projeto\EA\EA\obj\Debug\EA.csproj.GenerateResource.cache
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\DAW\TRABALHO\trabalho_DAW\DAW-projeto\EA\EA\obj\Debug\EA.csproj.CoreCompileInputs.cache
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\DAW\TRABALHO\trabalho_DAW\DAW-projeto\EA\EA\obj\Debug\pt-PT\EA.resources.dll
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\DAW\TRABALHO\trabalho_DAW\DAW-projeto\EA\EA\obj\Debug\EA.exe
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\DAW\TRABALHO\trabalho_DAW\DAW-projeto\EA\EA\obj\Debug\EA.pdb
+C:\Users\masan\Source\Repos\migas43211234\DAW-projeto\EA\EA\bin\Debug\EA.exe.config
+C:\Users\masan\Source\Repos\migas43211234\DAW-projeto\EA\EA\bin\Debug\EA.exe
+C:\Users\masan\Source\Repos\migas43211234\DAW-projeto\EA\EA\bin\Debug\EA.pdb
+C:\Users\masan\Source\Repos\migas43211234\DAW-projeto\EA\EA\bin\Debug\pt-PT\EA.resources.dll
+C:\Users\masan\Source\Repos\migas43211234\DAW-projeto\EA\EA\obj\Debug\EA.csprojAssemblyReference.cache
+C:\Users\masan\Source\Repos\migas43211234\DAW-projeto\EA\EA\obj\Debug\EA.Form1.resources
+C:\Users\masan\Source\Repos\migas43211234\DAW-projeto\EA\EA\obj\Debug\EA.Properties.Resources.resources
+C:\Users\masan\Source\Repos\migas43211234\DAW-projeto\EA\EA\obj\Debug\EA.Form1.pt-PT.resources
+C:\Users\masan\Source\Repos\migas43211234\DAW-projeto\EA\EA\obj\Debug\EA.csproj.GenerateResource.cache
+C:\Users\masan\Source\Repos\migas43211234\DAW-projeto\EA\EA\obj\Debug\EA.csproj.CoreCompileInputs.cache
+C:\Users\masan\Source\Repos\migas43211234\DAW-projeto\EA\EA\obj\Debug\pt-PT\EA.resources.dll
+C:\Users\masan\Source\Repos\migas43211234\DAW-projeto\EA\EA\obj\Debug\EA.exe
+C:\Users\masan\Source\Repos\migas43211234\DAW-projeto\EA\EA\obj\Debug\EA.pdb
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\DAW\TRABALHO\DAW-projeto\EA\EA\bin\Debug\EA.exe.config
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\DAW\TRABALHO\DAW-projeto\EA\EA\bin\Debug\EA.exe
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\DAW\TRABALHO\DAW-projeto\EA\EA\bin\Debug\EA.pdb
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\DAW\TRABALHO\DAW-projeto\EA\EA\bin\Debug\pt-PT\EA.resources.dll
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\DAW\TRABALHO\DAW-projeto\EA\EA\obj\Debug\EA.csprojAssemblyReference.cache
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\DAW\TRABALHO\DAW-projeto\EA\EA\obj\Debug\EA.Form1.resources
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\DAW\TRABALHO\DAW-projeto\EA\EA\obj\Debug\EA.Properties.Resources.resources
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\DAW\TRABALHO\DAW-projeto\EA\EA\obj\Debug\EA.Form1.pt-PT.resources
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\DAW\TRABALHO\DAW-projeto\EA\EA\obj\Debug\EA.csproj.GenerateResource.cache
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\DAW\TRABALHO\DAW-projeto\EA\EA\obj\Debug\EA.csproj.CoreCompileInputs.cache
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\DAW\TRABALHO\DAW-projeto\EA\EA\obj\Debug\pt-PT\EA.resources.dll
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\DAW\TRABALHO\DAW-projeto\EA\EA\obj\Debug\EA.exe
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\DAW\TRABALHO\DAW-projeto\EA\EA\obj\Debug\EA.pdb
+C:\Users\csant\source\repos\migas43211234\DAW-projeto\EA\EA\bin\Debug\EA.exe.config
+C:\Users\csant\source\repos\migas43211234\DAW-projeto\EA\EA\bin\Debug\EA.exe
+C:\Users\csant\source\repos\migas43211234\DAW-projeto\EA\EA\bin\Debug\EA.pdb
+C:\Users\csant\source\repos\migas43211234\DAW-projeto\EA\EA\bin\Debug\pt-PT\EA.resources.dll
+C:\Users\csant\source\repos\migas43211234\DAW-projeto\EA\EA\obj\Debug\EA.csprojAssemblyReference.cache
+C:\Users\csant\source\repos\migas43211234\DAW-projeto\EA\EA\obj\Debug\EA.Form1.resources
+C:\Users\csant\source\repos\migas43211234\DAW-projeto\EA\EA\obj\Debug\EA.Properties.Resources.resources
+C:\Users\csant\source\repos\migas43211234\DAW-projeto\EA\EA\obj\Debug\EA.Form1.pt-PT.resources
+C:\Users\csant\source\repos\migas43211234\DAW-projeto\EA\EA\obj\Debug\EA.csproj.GenerateResource.cache
+C:\Users\csant\source\repos\migas43211234\DAW-projeto\EA\EA\obj\Debug\EA.csproj.CoreCompileInputs.cache
+C:\Users\csant\source\repos\migas43211234\DAW-projeto\EA\EA\obj\Debug\pt-PT\EA.resources.dll
+C:\Users\csant\source\repos\migas43211234\DAW-projeto\EA\EA\obj\Debug\EA.exe
+C:\Users\csant\source\repos\migas43211234\DAW-projeto\EA\EA\obj\Debug\EA.pdb
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\Ambiente de Trabalho\DAW-projeto\EA\EA\bin\Debug\EA.exe.config
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\Ambiente de Trabalho\DAW-projeto\EA\EA\bin\Debug\EA.exe
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\Ambiente de Trabalho\DAW-projeto\EA\EA\bin\Debug\EA.pdb
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\Ambiente de Trabalho\DAW-projeto\EA\EA\bin\Debug\pt-PT\EA.resources.dll
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\Ambiente de Trabalho\DAW-projeto\EA\EA\obj\Debug\EA.csprojAssemblyReference.cache
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\Ambiente de Trabalho\DAW-projeto\EA\EA\obj\Debug\EA.Form1.resources
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\Ambiente de Trabalho\DAW-projeto\EA\EA\obj\Debug\EA.Properties.Resources.resources
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\Ambiente de Trabalho\DAW-projeto\EA\EA\obj\Debug\EA.Form1.pt-PT.resources
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\Ambiente de Trabalho\DAW-projeto\EA\EA\obj\Debug\EA.csproj.GenerateResource.cache
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\Ambiente de Trabalho\DAW-projeto\EA\EA\obj\Debug\EA.csproj.CoreCompileInputs.cache
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\Ambiente de Trabalho\DAW-projeto\EA\EA\obj\Debug\pt-PT\EA.resources.dll
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\Ambiente de Trabalho\DAW-projeto\EA\EA\obj\Debug\EA.exe
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\Ambiente de Trabalho\DAW-projeto\EA\EA\obj\Debug\EA.pdb
+C:\Users\Rui Rodrigues\source\repos\migas43211234\DAW-projeto\EA\EA\bin\Debug\EA.exe.config
+C:\Users\Rui Rodrigues\source\repos\migas43211234\DAW-projeto\EA\EA\bin\Debug\EA.exe
+C:\Users\Rui Rodrigues\source\repos\migas43211234\DAW-projeto\EA\EA\bin\Debug\EA.pdb
+C:\Users\Rui Rodrigues\source\repos\migas43211234\DAW-projeto\EA\EA\bin\Debug\pt-PT\EA.resources.dll
+C:\Users\Rui Rodrigues\source\repos\migas43211234\DAW-projeto\EA\EA\obj\Debug\EA.csprojAssemblyReference.cache
+C:\Users\Rui Rodrigues\source\repos\migas43211234\DAW-projeto\EA\EA\obj\Debug\EA.Form1.resources
+C:\Users\Rui Rodrigues\source\repos\migas43211234\DAW-projeto\EA\EA\obj\Debug\EA.Properties.Resources.resources
+C:\Users\Rui Rodrigues\source\repos\migas43211234\DAW-projeto\EA\EA\obj\Debug\EA.Form1.pt-PT.resources
+C:\Users\Rui Rodrigues\source\repos\migas43211234\DAW-projeto\EA\EA\obj\Debug\EA.csproj.GenerateResource.cache
+C:\Users\Rui Rodrigues\source\repos\migas43211234\DAW-projeto\EA\EA\obj\Debug\EA.csproj.CoreCompileInputs.cache
+C:\Users\Rui Rodrigues\source\repos\migas43211234\DAW-projeto\EA\EA\obj\Debug\pt-PT\EA.resources.dll
+C:\Users\Rui Rodrigues\source\repos\migas43211234\DAW-projeto\EA\EA\obj\Debug\EA.exe
+C:\Users\Rui Rodrigues\source\repos\migas43211234\DAW-projeto\EA\EA\obj\Debug\EA.pdb
+C:\Users\masan\source\teste1\DAW-projeto\EA\EA\bin\Debug\EA.exe.config
+C:\Users\masan\source\teste1\DAW-projeto\EA\EA\bin\Debug\EA.exe
+C:\Users\masan\source\teste1\DAW-projeto\EA\EA\bin\Debug\EA.pdb
+C:\Users\masan\source\teste1\DAW-projeto\EA\EA\bin\Debug\pt-PT\EA.resources.dll
+C:\Users\masan\source\teste1\DAW-projeto\EA\EA\obj\Debug\EA.csprojAssemblyReference.cache
+C:\Users\masan\source\teste1\DAW-projeto\EA\EA\obj\Debug\EA.Form1.resources
+C:\Users\masan\source\teste1\DAW-projeto\EA\EA\obj\Debug\EA.Properties.Resources.resources
+C:\Users\masan\source\teste1\DAW-projeto\EA\EA\obj\Debug\EA.Form1.pt-PT.resources
+C:\Users\masan\source\teste1\DAW-projeto\EA\EA\obj\Debug\EA.csproj.GenerateResource.cache
+C:\Users\masan\source\teste1\DAW-projeto\EA\EA\obj\Debug\EA.csproj.CoreCompileInputs.cache
+C:\Users\masan\source\teste1\DAW-projeto\EA\EA\obj\Debug\pt-PT\EA.resources.dll
+C:\Users\masan\source\teste1\DAW-projeto\EA\EA\obj\Debug\EA.exe
+C:\Users\masan\source\teste1\DAW-projeto\EA\EA\obj\Debug\EA.pdb
+C:\Users\Rui Rodrigues\source\repos\migas43211234\DAW-projeto\EA\EA\bin\Debug\Interop.WMPLib.dll
+C:\Users\Rui Rodrigues\source\repos\migas43211234\DAW-projeto\EA\EA\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Rui Rodrigues\source\repos\migas43211234\DAW-projeto\EA\EA\obj\Debug\Interop.WMPLib.dll
+C:\Users\Rui Rodrigues\source\repos\migas43211234\DAW-projeto\EA\EA\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Rui Rodrigues\source\repos\migas43211234\DAW-projeto\EA\EA\obj\Debug\EA.csproj.ResolveComReference.cache
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\LW\git_\migas43211234\DAW-projeto\EA\EA\bin\Debug\EA.exe.config
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\LW\git_\migas43211234\DAW-projeto\EA\EA\bin\Debug\EA.exe
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\LW\git_\migas43211234\DAW-projeto\EA\EA\bin\Debug\EA.pdb
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\LW\git_\migas43211234\DAW-projeto\EA\EA\bin\Debug\pt-PT\EA.resources.dll
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\LW\git_\migas43211234\DAW-projeto\EA\EA\bin\Debug\Interop.WMPLib.dll
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\LW\git_\migas43211234\DAW-projeto\EA\EA\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\LW\git_\migas43211234\DAW-projeto\EA\EA\obj\Debug\EA.csprojAssemblyReference.cache
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\LW\git_\migas43211234\DAW-projeto\EA\EA\obj\Debug\Interop.WMPLib.dll
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\LW\git_\migas43211234\DAW-projeto\EA\EA\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\LW\git_\migas43211234\DAW-projeto\EA\EA\obj\Debug\EA.csproj.ResolveComReference.cache
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\LW\git_\migas43211234\DAW-projeto\EA\EA\obj\Debug\EA.Form1.resources
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\LW\git_\migas43211234\DAW-projeto\EA\EA\obj\Debug\EA.Properties.Resources.resources
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\LW\git_\migas43211234\DAW-projeto\EA\EA\obj\Debug\EA.Form1.pt-PT.resources
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\LW\git_\migas43211234\DAW-projeto\EA\EA\obj\Debug\EA.csproj.GenerateResource.cache
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\LW\git_\migas43211234\DAW-projeto\EA\EA\obj\Debug\EA.csproj.CoreCompileInputs.cache
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\LW\git_\migas43211234\DAW-projeto\EA\EA\obj\Debug\pt-PT\EA.resources.dll
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\LW\git_\migas43211234\DAW-projeto\EA\EA\obj\Debug\EA.exe
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\LW\git_\migas43211234\DAW-projeto\EA\EA\obj\Debug\EA.pdb
+C:\Users\masan\source\repos\migas43211234\DAW-projeto\EA\EA\bin\Debug\Interop.WMPLib.dll
+C:\Users\masan\source\repos\migas43211234\DAW-projeto\EA\EA\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\masan\source\repos\migas43211234\DAW-projeto\EA\EA\obj\Debug\Interop.WMPLib.dll
+C:\Users\masan\source\repos\migas43211234\DAW-projeto\EA\EA\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\masan\source\repos\migas43211234\DAW-projeto\EA\EA\obj\Debug\EA.csproj.ResolveComReference.cache
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\DAW\TRABALHO\DAW-projeto\EA\EA\bin\Debug\Interop.WMPLib.dll
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\DAW\TRABALHO\DAW-projeto\EA\EA\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\DAW\TRABALHO\DAW-projeto\EA\EA\obj\Debug\Interop.WMPLib.dll
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\DAW\TRABALHO\DAW-projeto\EA\EA\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\stduser\OneDrive - Instituto Politécnico de Setúbal\DAW\TRABALHO\DAW-projeto\EA\EA\obj\Debug\EA.csproj.ResolveComReference.cache
+C:\Users\us.msantana\source\repos\migas43211234\DAW-projeto\EA\EA\bin\Debug\Interop.WMPLib.dll
+C:\Users\us.msantana\source\repos\migas43211234\DAW-projeto\EA\EA\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\us.msantana\source\repos\migas43211234\DAW-projeto\EA\EA\obj\Debug\Interop.WMPLib.dll
+C:\Users\us.msantana\source\repos\migas43211234\DAW-projeto\EA\EA\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\us.msantana\source\repos\migas43211234\DAW-projeto\EA\EA\obj\Debug\EA.csproj.ResolveComReference.cache
